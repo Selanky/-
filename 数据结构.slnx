@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="数据结构/数据结构.vcxproj" Id="391f9753-201f-4595-a29c-1e9f1017797b" />
+</Solution>
